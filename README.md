@@ -1,0 +1,2 @@
+# javascript-newland
+/ class exercises
