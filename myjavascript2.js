@@ -5,3 +5,6 @@ a = 5000;
 alert (a);
 var phrase = "This is a simple phrase.";
 alert (phrase.length);
+var aa =100;
+var bb = 50;
+var result = var aa - var bb;
