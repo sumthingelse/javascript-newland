@@ -24,13 +24,13 @@ https://develper.mozilla.org/en/Javascript/Reference
 
 //interate through all elements in an array is useful, but start index at zero
 var i = 0;
-while (i< simplearray.length) {
-  alert ("the value is: simplearray [i]);
+while ( i < simplearray.length ) {
+  alert ("the value is:" + simplearray [i]);
   i++;
 }
 //now lets total the array elements
-var total =0;
-for (var i=0; i = simpleArray.length; i++) {
+var total = 0;
+for (var i= 0; i = simpleArray.length ; i++ ) {
   total = total + simpleArray [i];
 }
 alert("The Total is:" + total);
